@@ -6,9 +6,9 @@
 
 An independent Data Scientist who loves to create and share projects about machine learning and deep learning! I've enjoyed Python and make it the main language in creating a project.
 
-- 🔭 I’m currently studying on <a href="https://grow.google/intl/id_id/bangkit/">@Bangkit</a> as machine learning student
-- 🌱 I’m currently learning about computer vision
-- 💬 Feel free to ask me about machine learning or deep learning
+- 🔭 Currently working as a part-time machine learning engineer
+- 🌱 Learning about machine learning with computer vision speciality
+- 💬 Feel free to ask me about anything
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/najma-9537a2204/">LinkedIn</a>
 
 
